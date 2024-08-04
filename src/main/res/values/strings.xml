@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">French teacher app</string>
+    <string name="french_teacher_app">French teacher app</string>
+    <string name="red">Red</string>
+    <string name="yellow">Yellow</string>
+    <string name="purple">Purple</string>
+    <string name="green">Green</string>
+    <string name="black">Black</string>
+</resources>
